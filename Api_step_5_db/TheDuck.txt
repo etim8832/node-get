@@ -1,0 +1,5 @@
+mongoose กับ mongodb ต่างกันยังไงเวลา npm install มันไม่ได้รวมเป็นตัวเดียวกันเรอะ 
+
+ Todo.find({name:/^Master/,completed:false}).where('updated_at').gt(oneYearAgo).exec(callback);
+ gt = 
+ exec = 

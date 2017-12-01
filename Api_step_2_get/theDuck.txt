@@ -1,0 +1,2 @@
+การไช้เครื่องหมาย ? , & ที่ตรง url เช่น "smartphone?brand=apple&model=iphne&sersion=4"
+ข้อแตกต่างระหว่างการไช้ query , params 
